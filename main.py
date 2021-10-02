@@ -1,4 +1,4 @@
-print("Hi if you are kool then survive. ")
+print("Hi if you are kool kid then survive. ")
 
 print("yes")
 
